@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/Masterarbeit/NotionWidget/app/src/main/res/drawable-v24/doing.xml" value="0.1575" />
+        <entry key="..\:/AndroidStudioProjects/Masterarbeit/NotionWidget/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1305" />
+        <entry key="..\:/AndroidStudioProjects/Masterarbeit/NotionWidget/app/src/main/res/drawable-v24/on_hold.xml" value="0.1575" />
+        <entry key="..\:/AndroidStudioProjects/Masterarbeit/NotionWidget/app/src/main/res/drawable-v24/to_do.xml" value="0.1575" />
+        <entry key="..\:/AndroidStudioProjects/Masterarbeit/NotionWidget/app/src/main/res/drawable/button_done.xml" value="0.1305" />
+        <entry key="..\:/AndroidStudioProjects/Masterarbeit/NotionWidget/app/src/main/res/drawable/button_item_done.xml" value="0.101" />
+        <entry key="..\:/AndroidStudioProjects/Masterarbeit/NotionWidget/app/src/main/res/drawable/button_item_not_done.xml" value="0.1305" />
+        <entry key="..\:/AndroidStudioProjects/Masterarbeit/NotionWidget/app/src/main/res/drawable/done_button.xml" value="0.1305" />
+        <entry key="..\:/AndroidStudioProjects/Masterarbeit/NotionWidget/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1305" />
+        <entry key="..\:/AndroidStudioProjects/Masterarbeit/NotionWidget/app/src/main/res/drawable/item.xml" value="0.136" />
+        <entry key="..\:/AndroidStudioProjects/Masterarbeit/NotionWidget/app/src/main/res/drawable/item_name.xml" value="0.1305" />
+        <entry key="..\:/AndroidStudioProjects/Masterarbeit/NotionWidget/app/src/main/res/drawable/list_view_divider.xml" value="0.142" />
+        <entry key="..\:/AndroidStudioProjects/Masterarbeit/NotionWidget/app/src/main/res/drawable/vertical_list_divider.xml" value="0.142" />
+        <entry key="..\:/AndroidStudioProjects/Masterarbeit/NotionWidget/app/src/main/res/drawable/widget.xml" value="0.1305" />
+        <entry key="..\:/AndroidStudioProjects/Masterarbeit/NotionWidget/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProjects/Masterarbeit/NotionWidget/app/src/main/res/layout/item.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProjects/Masterarbeit/NotionWidget/app/src/main/res/layout/item_container.xml" value="0.21927083333333333" />
+        <entry key="..\:/AndroidStudioProjects/Masterarbeit/NotionWidget/app/src/main/res/layout/items_container.xml" value="0.21927083333333333" />
+        <entry key="..\:/AndroidStudioProjects/Masterarbeit/NotionWidget/app/src/main/res/layout/items_loading_screen.xml" value="0.21927083333333333" />
+        <entry key="..\:/AndroidStudioProjects/Masterarbeit/NotionWidget/app/src/main/res/layout/kanban_state.xml" value="0.4" />
+        <entry key="..\:/AndroidStudioProjects/Masterarbeit/NotionWidget/app/src/main/res/layout/widget_provider.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
