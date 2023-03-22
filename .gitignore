@@ -85,4 +85,4 @@ lint/tmp/
 # lint/reports/
 
 # notion DB-ID and secret
-app/src/main/assets/notion_data.json
+app/src/main/assets/m_notion_data.json
